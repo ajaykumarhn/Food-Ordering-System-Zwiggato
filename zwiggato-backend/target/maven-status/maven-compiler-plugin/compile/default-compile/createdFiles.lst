@@ -1,0 +1,11 @@
+com\zwiggato\backend\entity\MenuItem.class
+com\zwiggato\backend\repository\UserRepository.class
+com\zwiggato\backend\controller\RestaurantController.class
+com\zwiggato\backend\ZwiggatoApplication.class
+com\zwiggato\backend\entity\Order.class
+com\zwiggato\backend\DataInitializer.class
+com\zwiggato\backend\repository\MenuItemRepository.class
+com\zwiggato\backend\controller\MenuItemController.class
+com\zwiggato\backend\entity\Restaurant.class
+com\zwiggato\backend\entity\User.class
+com\zwiggato\backend\repository\RestaurantRepository.class
